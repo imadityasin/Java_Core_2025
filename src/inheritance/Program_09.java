@@ -2,5 +2,5 @@
 
 package inheritance;
 
-public class Program_07 {
+public class Program_09 {
 }

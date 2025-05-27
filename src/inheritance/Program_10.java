@@ -1,7 +1,8 @@
+//Multi-Level Inheritance.
 package inheritance;
 
-public class Program_08 {
+public class Program_10 {
     public static void main(String[] args) {
-        System.out.println("Aditya Singh");
+
     }
 }
