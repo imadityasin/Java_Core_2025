@@ -1,6 +1,6 @@
 //Multi-Level Inheritance.
 
-package inheritance;
+package oops.inheritance;
 
 public class Program_09 {
 }

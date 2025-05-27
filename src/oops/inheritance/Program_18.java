@@ -1,5 +1,5 @@
 //Multiple Inheritance
-package inheritance;
+package oops.inheritance;
 
 public class Program_18 {
 }

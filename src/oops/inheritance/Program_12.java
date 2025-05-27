@@ -1,6 +1,6 @@
 //Hierarchical Inheritance.
 
-package inheritance;
+package oops.inheritance;
 
 public class Program_12 {
 }

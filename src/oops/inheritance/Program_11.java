@@ -11,7 +11,7 @@
 //
 //Cat prints: "Cat meows"
 
-package inheritance;
+package oops.inheritance;
 
 class Animal1{
     void makeSound() {

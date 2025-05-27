@@ -3,7 +3,7 @@
 //Create a class Vehicle with a field brand and method displayBrand().
 //Inherit it in class Car with an additional field model and method displayCarDetails().
 
-package inheritance;
+package oops.inheritance;
 
 import java.util.Scanner;
 

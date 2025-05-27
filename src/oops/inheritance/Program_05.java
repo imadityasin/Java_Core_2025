@@ -6,7 +6,7 @@
 //
 //Child class SavingsAccount with method withdraw(amount) which withdraws only if balance sufficient
 
-package inheritance;
+package oops.inheritance;
 
 import java.util.Scanner;
 

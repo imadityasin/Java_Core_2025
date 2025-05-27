@@ -6,7 +6,7 @@
 //Fields: length, breadth
 //
 //Method: area() → calculates and displays area.
-package inheritance;
+package oops.inheritance;
 
 class Shape{
     void display() {

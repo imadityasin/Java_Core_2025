@@ -4,7 +4,7 @@
 //Inherit it in class Student with an additional field rollNo and method showStudent().
 //Take input from the user.
 
-package inheritance;
+package oops.inheritance;
 
 import java.util.Scanner;
 

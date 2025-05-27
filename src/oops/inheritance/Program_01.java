@@ -1,5 +1,5 @@
 //Single - level Inheritance.
-package inheritance;
+package oops.inheritance;
 class Animal{
     void sound() {
         System.out.println("Dog Barks");

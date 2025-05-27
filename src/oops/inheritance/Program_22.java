@@ -1,5 +1,5 @@
 //Hybrid Inheritance
-package inheritance;
+package oops.inheritance;
 
 public class Program_22 {
 }

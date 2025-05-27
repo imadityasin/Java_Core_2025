@@ -25,7 +25,7 @@
 //
 //Show Account Details
 
-package inheritance;
+package oops.inheritance;
 
 import java.util.Scanner;
 
