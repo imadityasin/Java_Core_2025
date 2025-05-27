@@ -1,5 +1,44 @@
 //Encapsulation.
 
+//Design a Java class ATM that uses hard encapsulation to simulate a secure ATM login and transaction system. The class should:
+//
+//👤 Private Fields
+//accountNumber (String)
+//
+//pin (int)
+//
+//balance (double)
+//
+//🧰 Public Methods
+//setCredentials(String accNo, int pin, double balance)
+//
+//Used only once for setting initial data.
+//
+//boolean authenticate(String accNo, int enteredPin)
+//
+//Validates the user with account number and PIN.
+//
+//void deposit(double amount)
+//
+//Adds to balance (if authenticated and amount > 0).
+//
+//void withdraw(double amount)
+//
+//Deducts if:
+//
+//amount <= balance
+//
+//amount > 0
+//
+//double checkBalance()
+//
+//Returns current balance.
+//
+//        String getMaskedAccountNumber()
+//
+//Returns account number like: XXXXXX1234
+
+
 package oops.encapsulation;
 
 import java.util.Scanner;
