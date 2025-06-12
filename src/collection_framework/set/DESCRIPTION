@@ -1,0 +1,4 @@
+SET IS A COLLECTION THAT CANNOT CONTAIN DUPLICATE ELEMENTS.
+FASTER OPERATIONS
+Map --> HashMap,LinkedHashMap, TreeMap, EnumMap
+Set --> HasSet, LinkedHashSet, TreeSet, EnumSet
