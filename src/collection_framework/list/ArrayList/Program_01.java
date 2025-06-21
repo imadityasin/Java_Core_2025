@@ -16,7 +16,7 @@ public class Program_01 {
         a1.add("Aditya Singh");
 
         System.out.println(a1);
-
+    
 //        It will add in last
         a1.add("Samanvitha Singh");
         System.out.println(a1);

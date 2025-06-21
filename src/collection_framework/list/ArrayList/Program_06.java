@@ -21,7 +21,7 @@ public class Program_06 {
 
         System.out.println(n1);
 
-        n1.removeIf(n -> n%2==0); //Condition: if number is divisible by 2
+            n1.removeIf(n -> n%2==0); //Condition: if number is divisible by 2
 
         System.out.println("After Removing Even Numbers: "+n1);
     }
